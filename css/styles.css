@@ -1,0 +1,17 @@
+body {
+  background-color: aquamarine;
+  font-family: monospace;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+ul {
+  border: solid black;
+}
+
+ol {
+  color: pink;
+}
