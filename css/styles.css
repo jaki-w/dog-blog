@@ -1,5 +1,5 @@
 body {
-  background-color: aquamarine;
+  background-color: powderblue;
   font-family: monospace;
 }
 
@@ -14,4 +14,16 @@ ul {
 
 ol {
   color: pink;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.original-background {
+  background-color: powderblue;
 }
